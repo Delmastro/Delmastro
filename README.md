@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao and welcome to my Github Profile 👋
+
+#### This is a collection of computer science ideas and concepts. I enjoy creating programs that relate to my various interests.
+
+
 
 <!--
 **Delmastro/Delmastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
