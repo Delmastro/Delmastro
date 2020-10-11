@@ -1,6 +1,8 @@
-### Ciao and welcome to my Github Profile 👋
+### Ciao 👋
 
-#### This is a collection of computer science ideas and concepts. I enjoy creating programs that relate to my various interests.
+#### Welcome to my Github Profile
+
+This is a collection of computer science ideas and concepts. I enjoy creating programs that relate to my various interests.
 
 
 
