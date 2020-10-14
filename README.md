@@ -2,7 +2,8 @@
 
 #### Welcome to my Github Profile
 
-I enjoy creating programs that relate to my interests: music, mathematics and language. Here you will find a collection of computer science ideas, notes and concepts.
+I enjoy creating programs that relate to my interests: music 🎹, mathematics 📖 and linguistics ✏️. Here you will find a collection of computer science ideas and concepts modified to minimic and model these interests.
+
 
 
 
