@@ -3,7 +3,7 @@
 #### Welcome to my Github Profile
 
 I enjoy creating programs that relate to music 🎹, mathematics 📖 and language ✏️. Here you will find a collection of computer science ideas and concepts to model my interests.
-Data-science, cryptography and tutoring notes are also interests of mine and consequently, repositories for these categories have been created.
+Data-science and cryptography are also interests of mine and consequently, repositories for these categories have been created.
 
 
 
