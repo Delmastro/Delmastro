@@ -1,10 +1,10 @@
 ### Ciao 👋
 
-#### Welcome to my Github Profile
+#### *Welcome to my Github Profile*
 
 #### *I enjoy creating programs that relate to music 🎹, mathematics 📖 and language ✏️* 
 
-Here is a collection of my computer science projects, ideas and notes. Data-science and cryptography are also interests of mine and consequently, repositories for these categories have been created.
+Here is my collection of computer science projects, ideas and notes. Data-science, cryptography and pattern recognication are also fields I am interested in.
 
 
 
