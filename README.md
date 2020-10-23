@@ -4,7 +4,7 @@
 
 #### *I enjoy creating programs that relate to music 🎹, mathematics 📖 and language ✏️* 
 
-Here is my collection of computer science projects, ideas and notes. Data-science, cryptography and pattern recognication are also fields I am interested in.
+Here is my collection of computer science projects, ideas and notes. Data-science, cryptography and pattern recognition are also fields I am interested in.
 
 
 
