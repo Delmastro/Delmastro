@@ -4,7 +4,9 @@
 
 #### *I enjoy developing new tools that make learning easy and fun.*
 
+
 Here is a collection of my projects, ideas and notes. I love designing experiences that resonant with users and help them learn new concepts. My other interests are pattern recognition, cryptography 📖 and mathematics ✏️
+
 
 
 🔭 I’m currently polishing my web design and development skills.
