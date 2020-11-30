@@ -1,3 +1,4 @@
+<pre>
 ### Ciao 👋
 
 #### ✨ *Welcome to my Github Profile* ✨
@@ -14,6 +15,7 @@ Here is a collection of my projects, ideas and notes. I love designing experienc
 🎹 I enjoy creating my own music and improvising along to jazz legends in my spare time 
 
 💬 If you'd like to get in touch with me, send me an email at delmastro.mj@gmail.com
+</pre>
 
 <!--
 **Delmastro/Delmastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
