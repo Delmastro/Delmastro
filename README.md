@@ -1,13 +1,15 @@
 ### Ciao 👋
 
-#### *Welcome to my Github Profile*
+#### ✨ *Welcome to my Github Profile* ✨
 
-#### *I enjoy creating programs that relate to music 🎹, mathematics 📖 and language ✏️* 
+#### *I enjoy developing new tools that make learning easy and fun.*
 
-Here is my collection of computer science projects, ideas and notes. Data-science, cryptography and pattern recognition are also fields I am interested in.
+Here is a collection of my projects, ideas and notes. I love designing experiences that resonant with users and help them learn new concepts. My other interests are pattern recognition, cryptography 📖 and mathematics ✏️
 
 
 🔭 I’m currently polishing my web design and development skills.
+
+🎹 I enjoy creating my own music and improvising along to jazz legends in my spare time 
 
 💬 If you'd like to get in touch with me, send me an email at delmastro.mj@gmail.com
 
