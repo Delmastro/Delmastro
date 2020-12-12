@@ -9,7 +9,7 @@ Here is a collection of my projects, ideas and notes. I love designing experienc
 <br>
 🔭 I’m currently polishing my web design and development skills.<br />
 <br>
-🎹 I enjoy creating my own music and improvising along to jazz legends in my spare time <br />
+🎹 I enjoy creating my own music and improvising along to jazz fusion in my spare time <br />
 <br>
 💬 If you'd like to get in touch with me, send me an email at delmastro.mj@gmail.com <br />
 
